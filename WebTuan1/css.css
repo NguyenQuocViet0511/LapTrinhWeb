@@ -67,6 +67,7 @@ li, a,button{
 }
 .nav_button a .btnDocs {
     border: none;
+    background-color: gainsboro;
 
 }
 #HomeScreen{
