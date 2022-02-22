@@ -184,7 +184,7 @@ li, a,button{
 }
 .footer-header{
     display: flex;
- 
+    margin-top: 60px;
     justify-content: space-between;
 }
 .card select{
@@ -231,7 +231,51 @@ font-size: 70px;
 .item-templates  a i{
 padding: 15px 17px 15px 20px;
 font-size: 70px;
-border: solid 1px black;
+
 border-radius: 10px;
 
 }
+.item-footer{  
+    display: grid;
+    grid-template-columns: repeat(3,32.3%);
+    justify-content: space-between;
+   
+    
+    
+}
+.item-templates-1{
+    border: solid 1px black;
+    padding-left: 10px;
+    margin: 20px 0px 20px 0;
+    margin-left: 0;
+    border-radius: 7px;
+    height: 230px;
+    
+   
+}
+.item-templates-1  a i{
+    padding: 15px 17px 15px 20px;
+    font-size: 70px;
+    border-radius: 10px;
+  
+    
+    
+}
+.item-templates-1   h3 {
+    padding: 0px 17px 15px 20px;
+    
+    
+    
+}
+.item-templates-1   p {
+    padding: 0px 17px 15px 20px;
+    font-size: 20px;
+    
+    
+}
+.item-icon-5{
+    text-align: center;
+    margin-top:20px ;
+}
+
+
